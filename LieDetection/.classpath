@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="jfftw"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/rvansoelen/weka-3-6-12/weka.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Users/rvansoelen/weka-3-6-12/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/rvansoelen/commons-lang3-3.4/commons-lang3-3.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/rvansoelen/commons-lang3-3.4/commons-lang3-3.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/rvansoelen/weka-3-6-12/weka-src.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Users/rvansoelen/weka-3-6-12/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
